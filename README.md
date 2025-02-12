@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Visual Design
-- 🌱 I’m currently learning UX/UI Design at Design Circuit
-- 🤔 I’m looking for help with dev tips and networking
-- 💬 Ask me about UX and digital design
-- 📫 How to reach me: My portfolio and email
+- 🔭 I’m currently working as ServiceNow Developement
+- 🌱 I’m currently learning Front-end, ServiceNow and Javascript
+- 🤔 I’m looking for make personal projects and networking
+- 💬 Ask me about UI/UX Design, Front-end, Product, ServiceNow
+- 📫 How to reach me: My email
 
